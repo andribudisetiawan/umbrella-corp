@@ -10,3 +10,8 @@ dependencies = [
     "scikit-learn==1.2.2",
     "streamlit>=1.55.0",
 ]
+
+[
+tool.uv
+]
+package = false
